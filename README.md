@@ -6,7 +6,6 @@
 - 🌱 백엔드의 견고함과 프론트엔드의 직관적인 경험을 모두 중요하게 생각하며, **꾸준히 성장하는 개발자**가 되는 것을 목표로 하고 있습니다.
 - 📫 **Contact Me!**
   - **Email:** ys615098@naver.com
-  - **Blog:** 없음
   - **GitHub:** https://github.com/studentwansu
 
 <br>
@@ -19,6 +18,7 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
     </p>
@@ -36,6 +36,7 @@
       <img src="https://img.shields.io/badge/JDBC-E76F00?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/MyBatis-01253F?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white"/>
     </p>
 
 * **Database**
@@ -67,8 +68,8 @@
   </a>
 </p>
 <p>
-  <strong>[프로젝트 한 줄 소개]</strong><br>
-  서버 사이드 렌더링(SSR) 기반의 웹 애플리케이션입니다. 세션 기반 인증/인가를 구현했습니다.
+  <strong>전주 지역 맛집을 소개하고 커뮤니티 활동을 할 수 있는 웹사이트입니다.</strong><br>
+  서버 사이드 렌더링(SSR) 기반으로 개발하였으며, Spring Security를 이용해 세션 기반 인증/인가를 구현했습니다.
 </p>
 <p>
   <strong>사용 기술</strong><br>
@@ -77,6 +78,7 @@
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-A79572?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 </p>
@@ -90,12 +92,13 @@
   </a>
 </p>
 <p>
-  <strong>[프로젝트 한 줄 소개]</strong><br>
-  React와 Spring Boot를 활용한 REST API 기반의 클라이언트-서버 분리(SPA) 프로젝트입니다.
+  <strong>시간 관리와 협업을 위한 칸반 보드 기반의 프로젝트 관리 툴입니다.</strong><br>
+  React와 Spring Boot를 활용한 REST API 기반의 클라이언트-서버 분리(SPA) 아키텍처로 설계되었습니다.
 </p>
 <p>
   <strong>사용 기술</strong><br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-A79572?style=for-the-badge"/>
@@ -113,16 +116,18 @@
   </a>
 </p>
 <p>
-  <strong>[프로젝트 한 줄 소개]</strong><br>
-  [이 프로젝트의 특징이나 목표를 간략하게 설명해주세요.]
+  <strong>TypeScript 기반의 React와 Spring Boot를 활용한 굿즈 공동구매 플랫폼입니다.</strong><br>
+  안정성과 유지보수성을 높였으며, 실시간 채팅 등 양방향 통신이 필요한 기능에는 WebSocket을 적용하여 사용자 경험을 향상시켰습니다.
 </p>
 <p>
   <strong>사용 기술</strong><br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-01253F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
