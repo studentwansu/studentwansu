@@ -135,7 +135,7 @@
 ## ✨ My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인 GitHub 아이디]&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=studentwansu&show_icons=true&theme=dracula" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인 GitHub 아이디]&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studentwansu&layout=compact&theme=dracula" />
 </p>
