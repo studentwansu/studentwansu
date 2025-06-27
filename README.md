@@ -139,7 +139,7 @@
 ### 4. 팀 프로젝트: 텍스트 RPG 게임
 <p>
   <a href="https://github.com/studentwansu/TextRPG">
-    <img src="[프로젝트 이미지 주소]" width="100%"/>
+    <img src="[[프로젝트 이미지 주소]](https://github.com/studentwansu/TextRPG/blob/main/%EC%96%B8%EC%A0%A0%EA%B0%80%2020%EA%B0%95%20logo.png?raw=true)" width="100%"/>
   </a>
 </p>
 <p>
