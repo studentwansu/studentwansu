@@ -135,6 +135,23 @@
 </p>
 
 <br>
+
+### 4. 팀 프로젝트: 텍스트 RPG 게임
+<p>
+  <a href="https://github.com/studentwansu/TextRPG">
+    <img src="[프로젝트 이미지 주소]" width="100%"/>
+  </a>
+</p>
+<p>
+  <strong>Java의 상속, 다형성 등 객체 지향 프로그래밍(OOP) 개념 학습을 위해 개발한 콘솔 기반의 텍스트 RPG 게임입니다.</strong><br>
+  플레이어는 무기를 선택하고, 던전에서 몬스터와 싸우며, 상점과 대장간을 통해 캐릭터를 성장시켜 나갑니다.
+</p>
+<p>
+  <strong>사용 기술</strong><br>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+<br>
 <hr>
 
 ## ✨ My GitHub Stats
