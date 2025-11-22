@@ -88,8 +88,8 @@
 
 ### 2. 파이널 팀프로젝트: MIN:UTE
 <p>
-  <a href="[프로젝트 저장소 주소]">
-    <img src="[프로젝트 이미지 주소]" width="100%"/>
+  <a href="https://github.com/studentwansu/minute">
+    <img src="https://github.com/studentwansu/minute/blob/main/images/_U.png" width="100%"/>
   </a>
 </p>
 <p>
