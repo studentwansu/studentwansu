@@ -65,7 +65,7 @@
 ### 1. 세미 팀프로젝트: 맛zip
 <p>
   <a href="https://github.com/studentwansu/matzip">
-    <img src="https://github.com/studentwansu/matzip/blob/master/images/%EB%A1%9C%EA%B3%A0%EC%88%98%EC%A0%95%203.png" width="10%"/>
+    <img src="https://github.com/studentwansu/matzip/blob/master/images/%EB%A1%9C%EA%B3%A0%EC%88%98%EC%A0%953_trimmed.png" width="10%"/>
   </a>
 </p>
 <p>
