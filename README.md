@@ -89,7 +89,7 @@
 ### 2. 파이널 팀프로젝트: MIN:UTE
 <p>
   <a href="https://github.com/studentwansu/minute">
-    <img src="https://github.com/studentwansu/minute/blob/main/images/_U.png" width="100%"/>
+    <img src="https://github.com/studentwansu/minute/blob/main/images/_U.png" width="5%"/>
   </a>
 </p>
 <p>
