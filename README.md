@@ -117,7 +117,7 @@
   </a>
 </p>
 <p>
-  <strong>TypeScript 기반의 React와 Spring Boot를 활용한 굿즈 공동구매 플랫폼입니다.</strong><br>
+  <strong>TypeScript 기반의 React와 Spring Boot를 활용한 굿즈 교환 플랫폼입니다.</strong><br>
   안정성과 유지보수성을 높였으며, 실시간 채팅 등 양방향 통신이 필요한 기능에는 WebSocket을 적용하여 사용자 경험을 향상시켰습니다.
 </p>
 <p>
