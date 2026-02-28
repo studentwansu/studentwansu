@@ -112,8 +112,8 @@
 
 ### 3. 팀프로젝트: 굿즈플(GoodsPle)
 <p>
-  <a href="[프로젝트 저장소 주소]">
-    <img src="[프로젝트 이미지 주소]" width="100%"/>
+  <a href="https://github.com/goodsple">
+    <img src="(https://github.com/goodsple/goodsple_front/blob/main/front/src/assets/images/favicon.png)" width="100%"/>
   </a>
 </p>
 <p>
