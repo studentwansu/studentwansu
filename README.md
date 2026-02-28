@@ -162,11 +162,11 @@
 ## ✨ My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=studentwansu&show_icons=true&theme=dracula" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studentwansu&layout=compact&theme=dracula" />
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studentwansu)](https://github.com/anuraghazra/github-readme-stats)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=studentwansu)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=studentwansu&theme=dracula" alt="GitHub Profile Details" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=studentwansu&theme=dracula" alt="GitHub Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=studentwansu&theme=dracula" alt="Most Commit Language" />
 
 </p>
