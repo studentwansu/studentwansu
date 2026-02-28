@@ -113,7 +113,7 @@
 ### 3. 팀프로젝트: 굿즈플(GoodsPle)
 <p>
   <a href="https://github.com/goodsple">
-    <img src="https://github.com/goodsple/goodsple_front/blob/main/front/src/assets/images/favicon.png" width="100%"/>
+    <img src="https://github.com/goodsple/goodsple_front/blob/main/front/src/assets/images/favicon.png" width="5%"/>
   </a>
 </p>
 <p>
