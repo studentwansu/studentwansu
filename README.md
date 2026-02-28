@@ -163,14 +163,14 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=studentwansu&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=studentwansu&theme=vue"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=studentwansu&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=studentwansu&theme=vue"
     alt="Most Commit Language"
   />
 </p>
